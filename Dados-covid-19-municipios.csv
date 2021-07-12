@@ -1,0 +1,646 @@
+Cod_IBGE,Grande região,Município,Mun_Total de casos,Mun_Total de óbitos
+3500105,Interior,Adamantina,3421,110
+3500204,Interior,Adolfo,534,14
+3500303,Interior,Aguaí,3124,95
+3500402,Interior,Águas da Prata,582,22
+3500501,Interior,Águas de Lindóia,1873,44
+3500550,Interior,Águas de Santa Bárbara,486,15
+3500600,Interior,Águas de São Pedro,330,9
+3500709,Interior,Agudos,3868,95
+3500758,Interior,Alambari,538,10
+3500808,Interior,Alfredo Marcondes,247,10
+3500907,Interior,Altair,228,12
+3501004,Interior,Altinópolis,818,41
+3501103,Interior,Alto Alegre,351,20
+3501152,Interior,Alumínio,1484,43
+3501202,Interior,Álvares Florence,478,14
+3501301,Interior,Álvares Machado,2121,63
+3501400,Interior,Álvaro de Carvalho,154,9
+3501509,Interior,Alvinlândia,138,8
+3501608,Interior,Americana,22696,702
+3501707,Interior,Américo Brasiliense,3851,88
+3501806,Interior,Américo de Campos,1005,28
+3501905,Interior,Amparo,6522,133
+3502002,Interior,Analândia,320,4
+3502101,Interior,Andradina,6128,253
+3502200,Interior,Angatuba,2664,64
+3502309,Interior,Anhembi,264,6
+3502408,Interior,Anhumas,219,7
+3502507,Interior,Aparecida,2262,94
+3502606,Interior,Aparecida d'Oeste,730,13
+3502705,Interior,Apiaí,1403,72
+3502754,Interior,Araçariguama,1814,59
+3502804,Interior,Araçatuba,26184,781
+3502903,Interior,Araçoiaba da Serra,2771,72
+3503000,Interior,Aramina,318,17
+3503109,Interior,Arandu,523,13
+3503158,Interior,Arapeí,220,3
+3503208,Interior,Araraquara,21860,448
+3503307,Interior,Araras,16016,350
+3503356,Interior,Arco-Íris,142,8
+3503406,Interior,Arealva,952,15
+3503505,Interior,Areias,321,1
+3503604,Interior,Areiópolis,1287,18
+3503703,Interior,Ariranha,920,23
+3503802,Interior,Artur Nogueira,4720,119
+3503901,RMSP (exceto capital),Arujá,7346,296
+3503950,Interior,Aspásia,183,5
+3504008,Interior,Assis,10728,377
+3504107,Interior,Atibaia,10847,248
+3504206,Interior,Auriflama,1896,68
+3504305,Interior,Avaí,452,12
+3504404,Interior,Avanhandava,996,38
+3504503,Interior,Avaré,10168,231
+3504602,Interior,Bady Bassitt,3660,71
+3504701,Interior,Balbinos,350,4
+3504800,Interior,Bálsamo,1656,63
+3504909,Interior,Bananal,959,3
+3505005,Interior,Barão de Antonina,409,8
+3505104,Interior,Barbosa,587,12
+3505203,Interior,Bariri,2915,117
+3505302,Interior,Barra Bonita,3259,96
+3505351,Interior,Barra do Chapéu,357,3
+3505401,Interior,Barra do Turvo,600,19
+3505500,Interior,Barretos,15363,473
+3505609,Interior,Barrinha,1614,64
+3505708,RMSP (exceto capital),Barueri,29656,1052
+3505807,Interior,Bastos,1418,36
+3505906,Interior,Batatais,3416,155
+3506003,Interior,Bauru,47044,1084
+3506102,Interior,Bebedouro,3931,156
+3506201,Interior,Bento de Abreu,327,2
+3506300,Interior,Bernardino de Campos,783,24
+3506359,Interior,Bertioga,5492,152
+3506409,Interior,Bilac,861,14
+3506508,Interior,Birigui,15296,515
+3506607,RMSP (exceto capital),Biritiba Mirim,1408,96
+3506706,Interior,Boa Esperança do Sul,1408,17
+3506805,Interior,Bocaina,1258,33
+3506904,Interior,Bofete,791,14
+3507001,Interior,Boituva,6102,171
+3507100,Interior,Bom Jesus dos Perdões,2039,24
+3507159,Interior,Bom Sucesso de Itararé,207,5
+3507209,Interior,Borá,121,1
+3507308,Interior,Boracéia,929,22
+3507407,Interior,Borborema,1606,51
+3507456,Interior,Borebi,257,3
+3507506,Interior,Botucatu,16790,274
+3507605,Interior,Bragança Paulista,17495,476
+3507704,Interior,Braúna,586,22
+3507753,Interior,Brejo Alegre,363,13
+3507803,Interior,Brodowski,2632,68
+3507902,Interior,Brotas,1413,47
+3508009,Interior,Buri,2452,79
+3508108,Interior,Buritama,2324,64
+3508207,Interior,Buritizal,306,10
+3508306,Interior,Cabrália Paulista,403,6
+3508405,Interior,Cabreúva,3633,91
+3508504,Interior,Caçapava,8137,250
+3508603,Interior,Cachoeira Paulista,2428,39
+3508702,Interior,Caconde,1304,33
+3508801,Interior,Cafelândia,742,36
+3508900,Interior,Caiabu,260,7
+3509007,RMSP (exceto capital),Caieiras,8261,291
+3509106,Interior,Caiuá,348,8
+3509205,RMSP (exceto capital),Cajamar,4584,221
+3509254,Interior,Cajati,3261,99
+3509304,Interior,Cajobi,996,30
+3509403,Interior,Cajuru,1082,36
+3509452,Interior,Campina do Monte Alegre,549,16
+3509502,Interior,Campinas,95793,3791
+3509601,Interior,Campo Limpo Paulista,5113,236
+3509700,Interior,Campos do Jordão,4800,110
+3509809,Interior,Campos Novos Paulista,275,9
+3509908,Interior,Cananéia,686,29
+3509957,Interior,Canas,206,4
+3510005,Interior,Cândido Mota,4102,144
+3510104,Interior,Cândido Rodrigues,131,7
+3510153,Interior,Canitar,826,12
+3510203,Interior,Capão Bonito,5419,68
+3510302,Interior,Capela do Alto,1441,29
+3510401,Interior,Capivari,4612,89
+3510500,Interior,Caraguatatuba,16527,439
+3510609,RMSP (exceto capital),Carapicuíba,30050,1008
+3510708,Interior,Cardoso,1068,36
+3510807,Interior,Casa Branca,2767,79
+3510906,Interior,Cássia dos Coqueiros,235,1
+3511003,Interior,Castilho,2119,74
+3511102,Interior,Catanduva,12787,547
+3511201,Interior,Catiguá,796,29
+3511300,Interior,Cedral,1153,25
+3511409,Interior,Cerqueira César,1855,36
+3511508,Interior,Cerquilho,5674,122
+3511607,Interior,Cesário Lange,2032,58
+3511706,Interior,Charqueada,1234,39
+3511904,Interior,Clementina,899,14
+3512001,Interior,Colina,1300,47
+3512100,Interior,Colômbia,594,10
+3512209,Interior,Conchal,2453,63
+3512308,Interior,Conchas,2162,62
+3512407,Interior,Cordeirópolis,5026,71
+3512506,Interior,Coroados,630,16
+3512605,Interior,Coronel Macedo,514,20
+3512704,Interior,Corumbataí,379,7
+3512803,Interior,Cosmópolis,6887,159
+3512902,Interior,Cosmorama,637,36
+3513009,RMSP (exceto capital),Cotia,13585,551
+3513108,Interior,Cravinhos,1940,88
+3513207,Interior,Cristais Paulista,1081,11
+3513306,Interior,Cruzália,152,4
+3513405,Interior,Cruzeiro,5877,77
+3513504,Interior,Cubatão,12546,433
+3513603,Interior,Cunha,816,10
+3513702,Interior,Descalvado,3456,63
+3513801,RMSP (exceto capital),Diadema,24182,1178
+3513850,Interior,Dirce Reis,156,3
+3513900,Interior,Divinolândia,1251,46
+3514007,Interior,Dobrada,555,8
+3514106,Interior,Dois Córregos,1521,38
+3514205,Interior,Dolcinópolis,202,6
+3514304,Interior,Dourado,790,17
+3514403,Interior,Dracena,5103,229
+3514502,Interior,Duartina,923,25
+3514601,Interior,Dumont,1203,21
+3514700,Interior,Echaporã,722,23
+3514809,Interior,Eldorado,1205,20
+3514908,Interior,Elias Fausto,1319,34
+3514924,Interior,Elisiário,538,7
+3514957,Interior,Embaúba,103,8
+3515004,RMSP (exceto capital),Embu das Artes,9478,531
+3515103,RMSP (exceto capital),Embu-Guaçu,4686,192
+3515129,Interior,Emilianópolis,350,7
+3515152,Interior,Engenheiro Coelho,2417,53
+3515186,Interior,Espírito Santo do Pinhal,4463,99
+3515194,Interior,Espírito Santo do Turvo,351,5
+3515202,Interior,Estrela d'Oeste,1255,25
+3515301,Interior,Estrela do Norte,336,4
+3515350,Interior,Euclides da Cunha Paulista,342,11
+3515400,Interior,Fartura,1324,35
+3515509,Interior,Fernandópolis,10315,273
+3515608,Interior,Fernando Prestes,836,9
+3515657,Interior,Fernão,205,0
+3515707,RMSP (exceto capital),Ferraz de Vasconcelos,9529,395
+3515806,Interior,Flora Rica,121,4
+3515905,Interior,Floreal,205,6
+3516002,Interior,Flórida Paulista,1206,32
+3516101,Interior,Florínea,353,9
+3516200,Interior,Franca,31385,727
+3516309,RMSP (exceto capital),Francisco Morato,10628,413
+3516408,RMSP (exceto capital),Franco da Rocha,11482,350
+3516507,Interior,Gabriel Monteiro,271,6
+3516606,Interior,Gália,484,16
+3516705,Interior,Garça,4539,120
+3516804,Interior,Gastão Vidigal,162,15
+3516853,Interior,Gavião Peixoto,1239,17
+3516903,Interior,General Salgado,895,34
+3517000,Interior,Getulina,1065,24
+3517109,Interior,Glicério,488,19
+3517208,Interior,Guaiçara,1293,22
+3517307,Interior,Guaimbê,522,7
+3517406,Interior,Guaíra,4650,185
+3517505,Interior,Guapiaçu,1889,72
+3517604,Interior,Guapiara,2122,79
+3517703,Interior,Guará,1836,79
+3517802,Interior,Guaraçaí,768,22
+3517901,Interior,Guaraci,1113,21
+3518008,Interior,Guarani d'Oeste,179,5
+3518107,Interior,Guarantã,265,17
+3518206,Interior,Guararapes,3777,97
+3518305,RMSP (exceto capital),Guararema,1840,83
+3518404,Interior,Guaratinguetá,8151,230
+3518503,Interior,Guareí,3245,26
+3518602,Interior,Guariba,3828,92
+3518701,Interior,Guarujá,20697,1139
+3518800,RMSP (exceto capital),Guarulhos,58251,4381
+3518859,Interior,Guatapará,469,20
+3518909,Interior,Guzolândia,477,25
+3519006,Interior,Herculândia,1099,19
+3519055,Interior,Holambra,1799,11
+3519071,Interior,Hortolândia,19513,636
+3519105,Interior,Iacanga,1315,26
+3519204,Interior,Iacri,451,11
+3519253,Interior,Iaras,281,19
+3519303,Interior,Ibaté,3422,91
+3519402,Interior,Ibirá,1792,29
+3519501,Interior,Ibirarema,641,23
+3519600,Interior,Ibitinga,9247,257
+3519709,Interior,Ibiúna,4484,122
+3519808,Interior,Icém,1125,26
+3519907,Interior,Iepê,867,23
+3520004,Interior,Igaraçu do Tietê,2049,47
+3520103,Interior,Igarapava,1306,85
+3520202,Interior,Igaratá,1932,30
+3520301,Interior,Iguape,2468,98
+3520400,Interior,Ilhabela,6797,39
+3520426,Interior,Ilha Comprida,1191,40
+3520442,Interior,Ilha Solteira,2447,87
+3520509,Interior,Indaiatuba,23569,518
+3520608,Interior,Indiana,226,9
+3520707,Interior,Indiaporã,334,10
+3520806,Interior,Inúbia Paulista,474,13
+3520905,Interior,Ipaussu,2040,41
+3521002,Interior,Iperó,2811,46
+3521101,Interior,Ipeúna,628,10
+3521150,Interior,Ipiguá,965,26
+3521200,Interior,Iporanga,421,4
+3521309,Interior,Ipuã,1717,57
+3521408,Interior,Iracemápolis,4235,89
+3521507,Interior,Irapuã,867,27
+3521606,Interior,Irapuru,678,31
+3521705,Interior,Itaberá,2272,60
+3521804,Interior,Itaí,2740,62
+3521903,Interior,Itajobi,2102,45
+3522000,Interior,Itaju,546,8
+3522109,Interior,Itanhaém,5704,265
+3522158,Interior,Itaoca,235,8
+3522208,RMSP (exceto capital),Itapecerica da Serra,7537,424
+3522307,Interior,Itapetininga,15940,508
+3522406,Interior,Itapeva,8014,361
+3522505,RMSP (exceto capital),Itapevi,11296,622
+3522604,Interior,Itapira,7401,254
+3522653,Interior,Itapirapuã Paulista,530,2
+3522703,Interior,Itápolis,5355,154
+3522802,Interior,Itaporanga,1298,45
+3522901,Interior,Itapuí,1288,35
+3523008,Interior,Itapura,261,11
+3523107,RMSP (exceto capital),Itaquaquecetuba,17087,865
+3523206,Interior,Itararé,5702,215
+3523305,Interior,Itariri,1264,39
+3523404,Interior,Itatiba,10384,141
+3523503,Interior,Itatinga,2565,45
+3523602,Interior,Itirapina,1374,32
+3523701,Interior,Itirapuã,274,5
+3523800,Interior,Itobi,557,9
+3523909,Interior,Itu,18891,353
+3524006,Interior,Itupeva,5816,121
+3524105,Interior,Ituverava,1843,120
+3524204,Interior,Jaborandi,533,13
+3524303,Interior,Jaboticabal,6719,114
+3524402,Interior,Jacareí,22548,647
+3524501,Interior,Jaci,920,23
+3524600,Interior,Jacupiranga,1520,48
+3524709,Interior,Jaguariúna,5155,103
+3524808,Interior,Jales,5866,197
+3524907,Interior,Jambeiro,362,11
+3525003,RMSP (exceto capital),Jandira,7041,273
+3525102,Interior,Jardinópolis,3792,130
+3525201,Interior,Jarinu,2472,61
+3525300,Interior,Jaú,8714,490
+3525409,Interior,Jeriquara,274,2
+3525508,Interior,Joanópolis,1063,6
+3525607,Interior,João Ramalho,605,13
+3525706,Interior,José Bonifácio,5258,129
+3525805,Interior,Júlio Mesquita,205,14
+3525854,Interior,Jumirim,506,6
+3525904,Interior,Jundiaí,45264,1400
+3526001,Interior,Junqueirópolis,1651,80
+3526100,Interior,Juquiá,1700,50
+3526209,RMSP (exceto capital),Juquitiba,1726,67
+3526308,Interior,Lagoinha,201,7
+3526407,Interior,Laranjal Paulista,4052,108
+3526506,Interior,Lavínia,889,15
+3526605,Interior,Lavrinhas,302,4
+3526704,Interior,Leme,11913,371
+3526803,Interior,Lençóis Paulista,11445,172
+3526902,Interior,Limeira,16258,701
+3527009,Interior,Lindóia,747,17
+3527108,Interior,Lins,8349,273
+3527207,Interior,Lorena,4656,117
+3527256,Interior,Lourdes,260,4
+3527306,Interior,Louveira,4343,91
+3527405,Interior,Lucélia,1658,53
+3527504,Interior,Lucianópolis,193,4
+3527603,Interior,Luís Antônio,1863,30
+3527702,Interior,Luiziânia,277,10
+3527801,Interior,Lupércio,250,7
+3527900,Interior,Lutécia,208,6
+3528007,Interior,Macatuba,2700,55
+3528106,Interior,Macaubal,759,15
+3528205,Interior,Macedônia,352,19
+3528304,Interior,Magda,222,8
+3528403,Interior,Mairinque,3853,52
+3528502,RMSP (exceto capital),Mairiporã,6383,211
+3528601,Interior,Manduri,824,15
+3528700,Interior,Marabá Paulista,95,3
+3528809,Interior,Maracaí,2014,45
+3528858,Interior,Marapoama,449,14
+3528908,Interior,Mariápolis,225,6
+3529005,Interior,Marília,26966,811
+3529104,Interior,Marinópolis,195,3
+3529203,Interior,Martinópolis,1300,68
+3529302,Interior,Matão,4896,169
+3529401,RMSP (exceto capital),Mauá,27019,1397
+3529500,Interior,Mendonça,830,28
+3529609,Interior,Meridiano,315,28
+3529658,Interior,Mesópolis,183,2
+3529708,Interior,Miguelópolis,1023,77
+3529807,Interior,Mineiros do Tietê,1231,22
+3529906,Interior,Miracatu,2043,61
+3530003,Interior,Mira Estrela,325,11
+3530102,Interior,Mirandópolis,1999,93
+3530201,Interior,Mirante do Paranapanema,876,33
+3530300,Interior,Mirassol,8767,241
+3530409,Interior,Mirassolândia,560,14
+3530508,Interior,Mococa,5321,197
+3530607,RMSP (exceto capital),Mogi das Cruzes,28834,1454
+3530706,Interior,Mogi Guaçu,16894,504
+3530805,Interior,Mogi Mirim,8997,311
+3530904,Interior,Mombuca,379,6
+3531001,Interior,Monções,227,5
+3531100,Interior,Mongaguá,1510,81
+3531209,Interior,Monte Alegre do Sul,593,8
+3531308,Interior,Monte Alto,5589,157
+3531407,Interior,Monte Aprazível,2830,83
+3531506,Interior,Monte Azul Paulista,2185,23
+3531605,Interior,Monte Castelo,555,15
+3531704,Interior,Monteiro Lobato,241,7
+3531803,Interior,Monte Mor,5872,117
+3531902,Interior,Morro Agudo,4441,97
+3532009,Interior,Morungaba,961,19
+3532058,Interior,Motuca,338,9
+3532108,Interior,Murutinga do Sul,358,13
+3532157,Interior,Nantes,229,6
+3532207,Interior,Narandiba,775,21
+3532306,Interior,Natividade da Serra,188,7
+3532405,Interior,Nazaré Paulista,1414,40
+3532504,Interior,Neves Paulista,1301,39
+3532603,Interior,Nhandeara,1245,42
+3532702,Interior,Nipoã,475,15
+3532801,Interior,Nova Aliança,1034,23
+3532827,Interior,Nova Campina,784,27
+3532843,Interior,Nova Canaã Paulista,264,4
+3532868,Interior,Nova Castilho,93,3
+3532900,Interior,Nova Europa,727,28
+3533007,Interior,Nova Granada,2856,67
+3533106,Interior,Nova Guataporanga,209,3
+3533205,Interior,Nova Independência,403,4
+3533254,Interior,Novais,295,11
+3533304,Interior,Nova Luzitânia,329,10
+3533403,Interior,Nova Odessa,6125,178
+3533502,Interior,Novo Horizonte,5226,187
+3533601,Interior,Nuporanga,372,9
+3533700,Interior,Ocauçu,358,4
+3533809,Interior,Óleo,104,1
+3533908,Interior,Olímpia,9275,235
+3534005,Interior,Onda Verde,844,24
+3534104,Interior,Oriente,316,21
+3534203,Interior,Orindiúva,1259,18
+3534302,Interior,Orlândia,4299,116
+3534401,RMSP (exceto capital),Osasco,40058,2306
+3534500,Interior,Oscar Bressane,279,7
+3534609,Interior,Osvaldo Cruz,4103,114
+3534708,Interior,Ourinhos,12459,339
+3534757,Interior,Ouroeste,1179,24
+3534807,Interior,Ouro Verde,622,22
+3534906,Interior,Pacaembu,1205,30
+3535002,Interior,Palestina,626,32
+3535101,Interior,Palmares Paulista,1394,39
+3535200,Interior,Palmeira d'Oeste,675,13
+3535309,Interior,Palmital,2524,64
+3535408,Interior,Panorama,1309,44
+3535507,Interior,Paraguaçu Paulista,4562,147
+3535606,Interior,Paraibuna,1174,40
+3535705,Interior,Paraíso,470,21
+3535804,Interior,Paranapanema,1840,63
+3535903,Interior,Paranapuã,402,16
+3536000,Interior,Parapuã,1263,33
+3536109,Interior,Pardinho,731,15
+3536208,Interior,Pariquera-Açu,2220,57
+3536257,Interior,Parisi,402,16
+3536307,Interior,Patrocínio Paulista,936,29
+3536406,Interior,Paulicéia,587,13
+3536505,Interior,Paulínia,13978,254
+3536570,Interior,Paulistânia,145,6
+3536604,Interior,Paulo de Faria,612,24
+3536703,Interior,Pederneiras,3952,75
+3536802,Interior,Pedra Bela,180,4
+3536901,Interior,Pedranópolis,224,5
+3537008,Interior,Pedregulho,273,16
+3537107,Interior,Pedreira,3577,51
+3537156,Interior,Pedrinhas Paulista,389,5
+3537206,Interior,Pedro de Toledo,410,15
+3537305,Interior,Penápolis,6255,224
+3537404,Interior,Pereira Barreto,2251,82
+3537503,Interior,Pereiras,1065,20
+3537602,Interior,Peruíbe,6303,200
+3537701,Interior,Piacatu,622,9
+3537800,Interior,Piedade,4872,129
+3537909,Interior,Pilar do Sul,2823,74
+3538006,Interior,Pindamonhangaba,11870,266
+3538105,Interior,Pindorama,1378,53
+3538204,Interior,Pinhalzinho,775,5
+3538303,Interior,Piquerobi,231,3
+3538501,Interior,Piquete,326,13
+3538600,Interior,Piracaia,3097,38
+3538709,Interior,Piracicaba,56856,1184
+3538808,Interior,Piraju,1788,65
+3538907,Interior,Pirajuí,2125,50
+3539004,Interior,Pirangi,1584,60
+3539103,RMSP (exceto capital),Pirapora do Bom Jesus,1413,16
+3539202,Interior,Pirapozinho,2581,65
+3539301,Interior,Pirassununga,8303,226
+3539400,Interior,Piratininga,862,31
+3539509,Interior,Pitangueiras,4707,145
+3539608,Interior,Planalto,572,8
+3539707,Interior,Platina,317,10
+3539806,RMSP (exceto capital),Poá,7516,343
+3539905,Interior,Poloni,780,16
+3540002,Interior,Pompéia,896,26
+3540101,Interior,Pongaí,335,9
+3540200,Interior,Pontal,4849,154
+3540259,Interior,Pontalinda,184,11
+3540309,Interior,Pontes Gestal,351,8
+3540408,Interior,Populina,223,5
+3540507,Interior,Porangaba,821,18
+3540606,Interior,Porto Feliz,7613,118
+3540705,Interior,Porto Ferreira,6007,146
+3540754,Interior,Potim,1715,37
+3540804,Interior,Potirendaba,2747,67
+3540853,Interior,Pracinha,173,1
+3540903,Interior,Pradópolis,1753,36
+3541000,Interior,Praia Grande,19562,664
+3541059,Interior,Pratânia,795,11
+3541109,Interior,Presidente Alves,258,7
+3541208,Interior,Presidente Bernardes,1237,34
+3541307,Interior,Presidente Epitácio,2847,104
+3541406,Interior,Presidente Prudente,27402,793
+3541505,Interior,Presidente Venceslau,2845,96
+3541604,Interior,Promissão,5094,82
+3541653,Interior,Quadra,188,7
+3541703,Interior,Quatá,1190,26
+3541802,Interior,Queiroz,359,3
+3541901,Interior,Queluz,950,6
+3542008,Interior,Quintana,525,19
+3542107,Interior,Rafard,937,6
+3542206,Interior,Rancharia,3825,88
+3542305,Interior,Redenção da Serra,104,2
+3542404,Interior,Regente Feijó,672,53
+3542503,Interior,Reginópolis,295,15
+3542602,Interior,Registro,6153,197
+3542701,Interior,Restinga,543,8
+3542800,Interior,Ribeira,397,2
+3542909,Interior,Ribeirão Bonito,933,26
+3543006,Interior,Ribeirão Branco,1661,49
+3543105,Interior,Ribeirão Corrente,283,3
+3543204,Interior,Ribeirão do Sul,625,10
+3543238,Interior,Ribeirão dos Índios,69,5
+3543253,Interior,Ribeirão Grande,402,8
+3543303,RMSP (exceto capital),Ribeirão Pires,7929,322
+3543402,Interior,Ribeirão Preto,68353,2576
+3543501,Interior,Riversul,514,26
+3543600,Interior,Rifaina,446,11
+3543709,Interior,Rincão,476,26
+3543808,Interior,Rinópolis,490,8
+3543907,Interior,Rio Claro,11815,515
+3544004,Interior,Rio das Pedras,3108,86
+3544103,RMSP (exceto capital),Rio Grande da Serra,2021,78
+3544202,Interior,Riolândia,1854,28
+3544251,Interior,Rosana,1290,41
+3544301,Interior,Roseira,1437,23
+3544400,Interior,Rubiácea,184,9
+3544509,Interior,Rubinéia,368,6
+3544608,Interior,Sabino,268,26
+3544707,Interior,Sagres,235,1
+3544806,Interior,Sales,439,27
+3544905,Interior,Sales Oliveira,1686,27
+3545001,RMSP (exceto capital),Salesópolis,573,42
+3545100,Interior,Salmourão,308,20
+3545159,Interior,Saltinho,822,15
+3545209,Interior,Salto,10524,312
+3545308,Interior,Salto de Pirapora,3888,165
+3545407,Interior,Salto Grande,796,7
+3545506,Interior,Sandovalina,355,8
+3545605,Interior,Santa Adélia,1498,55
+3545704,Interior,Santa Albertina,571,20
+3545803,Interior,Santa Bárbara d'Oeste,20000,665
+3546009,Interior,Santa Branca,1082,32
+3546108,Interior,Santa Clara d'Oeste,235,14
+3546207,Interior,Santa Cruz da Conceição,605,13
+3546256,Interior,Santa Cruz da Esperança,188,4
+3546306,Interior,Santa Cruz das Palmeiras,3600,102
+3546405,Interior,Santa Cruz do Rio Pardo,6006,141
+3546504,Interior,Santa Ernestina,524,14
+3546603,Interior,Santa Fé do Sul,4399,92
+3546702,Interior,Santa Gertrudes,3401,61
+3546801,RMSP (exceto capital),Santa Isabel,5406,238
+3546900,Interior,Santa Lúcia,630,18
+3547007,Interior,Santa Maria da Serra,721,8
+3547106,Interior,Santa Mercedes,186,4
+3547205,Interior,Santana da Ponte Pensa,45,2
+3547304,RMSP (exceto capital),Santana de Parnaíba,13630,340
+3547403,Interior,Santa Rita d'Oeste,271,7
+3547502,Interior,Santa Rita do Passa Quatro,1589,36
+3547601,Interior,Santa Rosa de Viterbo,2041,39
+3547650,Interior,Santa Salete,180,4
+3547700,Interior,Santo Anastácio,1556,32
+3547809,RMSP (exceto capital),Santo André,58648,2768
+3547908,Interior,Santo Antônio da Alegria,794,18
+3548005,Interior,Santo Antônio de Posse,2862,37
+3548054,Interior,Santo Antônio do Aracanguá,573,27
+3548104,Interior,Santo Antônio do Jardim,498,19
+3548203,Interior,Santo Antônio do Pinhal,620,7
+3548302,Interior,Santo Expedito,166,4
+3548401,Interior,Santópolis do Aguapeí,513,14
+3548500,Interior,Santos,54968,1919
+3548609,Interior,São Bento do Sapucaí,671,9
+3548708,RMSP (exceto capital),São Bernardo do Campo,67630,2929
+3548807,RMSP (exceto capital),São Caetano do Sul,17362,818
+3548906,Interior,São Carlos,22777,454
+3549003,Interior,São Francisco,238,9
+3549102,Interior,São João da Boa Vista,7522,246
+3549201,Interior,São João das Duas Pontes,174,5
+3549250,Interior,São João de Iracema,150,6
+3549300,Interior,São João do Pau d'Alho,161,0
+3549409,Interior,São Joaquim da Barra,5872,112
+3549508,Interior,São José da Bela Vista,280,15
+3549607,Interior,São José do Barreiro,259,4
+3549706,Interior,São José do Rio Pardo,3063,75
+3549805,Interior,São José do Rio Preto,85414,2504
+3549904,Interior,São José dos Campos,83105,1747
+3549953,RMSP (exceto capital),São Lourenço da Serra,659,33
+3550001,Interior,São Luiz do Paraitinga,74,21
+3550100,Interior,São Manuel,5144,137
+3550209,Interior,São Miguel Arcanjo,1931,59
+3550308,Capital,São Paulo,863581,33820
+3550407,Interior,São Pedro,4528,82
+3550506,Interior,São Pedro do Turvo,655,8
+3550605,Interior,São Roque,6085,94
+3550704,Interior,São Sebastião,7744,159
+3550803,Interior,São Sebastião da Grama,1077,30
+3550902,Interior,São Simão,907,24
+3551009,Interior,São Vicente,17268,1087
+3551108,Interior,Sarapuí,387,4
+3551207,Interior,Sarutaiá,119,16
+3551306,Interior,Sebastianópolis do Sul,150,6
+3551405,Interior,Serra Azul,1196,14
+3551504,Interior,Serrana,4275,89
+3551603,Interior,Serra Negra,2801,51
+3551702,Interior,Sertãozinho,16799,413
+3551801,Interior,Sete Barras,1732,39
+3551900,Interior,Severínia,2104,61
+3552007,Interior,Silveiras,436,6
+3552106,Interior,Socorro,3782,60
+3552205,Interior,Sorocaba,66595,2403
+3552304,Interior,Sud Mennucci,870,13
+3552403,Interior,Sumaré,23713,716
+3552502,RMSP (exceto capital),Suzano,20950,826
+3552551,Interior,Suzanápolis,310,11
+3552601,Interior,Tabapuã,1724,47
+3552700,Interior,Tabatinga,1857,50
+3552809,RMSP (exceto capital),Taboão da Serra,17357,838
+3552908,Interior,Taciba,663,23
+3553005,Interior,Taguaí,2227,34
+3553104,Interior,Taiaçu,345,10
+3553203,Interior,Taiúva,837,12
+3553302,Interior,Tambaú,2174,42
+3553401,Interior,Tanabi,4052,92
+3553500,Interior,Tapiraí,695,9
+3553609,Interior,Tapiratiba,1480,22
+3553658,Interior,Taquaral,351,10
+3553708,Interior,Taquaritinga,5599,177
+3553807,Interior,Taquarituba,3381,86
+3553856,Interior,Taquarivaí,463,14
+3553906,Interior,Tarabai,790,25
+3553955,Interior,Tarumã,1616,44
+3554003,Interior,Tatuí,6017,409
+3554102,Interior,Taubaté,25159,694
+3554201,Interior,Tejupá,136,7
+3554300,Interior,Teodoro Sampaio,2586,46
+3554409,Interior,Terra Roxa,946,28
+3554508,Interior,Tietê,3859,95
+3554607,Interior,Timburi,125,6
+3554656,Interior,Torre de Pedra,112,8
+3554706,Interior,Torrinha,1285,18
+3554755,Interior,Trabiju,158,2
+3554805,Interior,Tremembé,2444,34
+3554904,Interior,Três Fronteiras,749,27
+3554953,Interior,Tuiuti,179,2
+3555000,Interior,Tupã,6457,233
+3555109,Interior,Tupi Paulista,1465,42
+3555208,Interior,Turiúba,174,4
+3555307,Interior,Turmalina,175,4
+3555356,Interior,Ubarana,993,16
+3555406,Interior,Ubatuba,6280,120
+3555505,Interior,Ubirajara,470,7
+3555604,Interior,Uchoa,1340,29
+3555703,Interior,União Paulista,211,5
+3555802,Interior,Urânia,1187,32
+3555901,Interior,Uru,158,4
+3556008,Interior,Urupês,795,35
+3556107,Interior,Valentim Gentil,1898,61
+3556206,Interior,Valinhos,12529,347
+3556305,Interior,Valparaíso,2698,71
+3556354,Interior,Vargem,179,7
+3556404,Interior,Vargem Grande do Sul,2750,67
+3556453,RMSP (exceto capital),Vargem Grande Paulista,2340,92
+3556503,Interior,Várzea Paulista,7074,211
+3556602,Interior,Vera Cruz,611,34
+3556701,Interior,Vinhedo,8857,166
+3556800,Interior,Viradouro,1802,79
+3556909,Interior,Vista Alegre do Alto,818,12
+3556958,Interior,Vitória Brasil,206,7
+3557006,Interior,Votorantim,10018,437
+3557105,Interior,Votuporanga,13125,398
+3557154,Interior,Zacarias,242,9
+3557204,Interior,Chavantes,957,36
+3557303,Interior,Estiva Gerbi,721,30
